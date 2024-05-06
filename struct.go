@@ -18,7 +18,7 @@ func structs() {
 
 	var ptr2 *Point = &p
 	ptr2.y = 667
-    
+
 	fmt.Println(p.x)
 	fmt.Println(p1.x, p1.y)
 
